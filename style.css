@@ -1,0 +1,42 @@
+.margin {
+    margin: 40px;
+}
+
+.upsite {height: 10px;}
+.menu {
+    color: aliceblue;
+    background-image: linear-gradient(45deg, tomato, rgb(237, 152, 118)
+    );
+    font-size: 700;
+    border-radius: 5px;
+    float: right ;
+    padding: 5px 10px;
+margin: 5px;
+text-decoration: none;
+    
+    
+}
+.titlemenu { text-decoration: none;
+color: aliceblue;}
+
+section {margin-top: 10px;
+margin-right: 60px;
+margin-left: 20px;
+}
+.titlename { font-size: 35px;
+}
+.namecolour {
+    
+    color: orange;
+}
+
+.menu2 { 
+    float:left ;
+    width: 40%;
+    padding: 10px 10px ;
+    margin-left: 5%;
+    
+}
+.menu2 img {width:80%;
+align-content: center;}
+.upsite2 { height: 60px;}
